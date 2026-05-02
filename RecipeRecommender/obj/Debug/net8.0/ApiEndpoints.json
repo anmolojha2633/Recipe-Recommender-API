@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "RecipeController",
+    "Method": "Recommend",
+    "RelativePath": "api/recipes/recommend",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RecipeRecommender.Business.Models.RecipeRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

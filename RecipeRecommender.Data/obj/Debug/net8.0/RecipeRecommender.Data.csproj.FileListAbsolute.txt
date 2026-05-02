@@ -1,0 +1,13 @@
+C:\Users\anmol\Desktop\Dotnet\RecipeRecommender\RecipeRecommender.Data\bin\Debug\net8.0\RecipeRecommender.Data.deps.json
+C:\Users\anmol\Desktop\Dotnet\RecipeRecommender\RecipeRecommender.Data\bin\Debug\net8.0\RecipeRecommender.Data.dll
+C:\Users\anmol\Desktop\Dotnet\RecipeRecommender\RecipeRecommender.Data\bin\Debug\net8.0\RecipeRecommender.Data.pdb
+C:\Users\anmol\Desktop\Dotnet\RecipeRecommender\RecipeRecommender.Data\obj\Debug\net8.0\RecipeRecommender.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\Dotnet\RecipeRecommender\RecipeRecommender.Data\obj\Debug\net8.0\RecipeRecommender.Data.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\Dotnet\RecipeRecommender\RecipeRecommender.Data\obj\Debug\net8.0\RecipeRecommender.Data.AssemblyInfo.cs
+C:\Users\anmol\Desktop\Dotnet\RecipeRecommender\RecipeRecommender.Data\obj\Debug\net8.0\RecipeRecommender.Data.csproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\Dotnet\RecipeRecommender\RecipeRecommender.Data\obj\Debug\net8.0\RecipeRecommender.Data.sourcelink.json
+C:\Users\anmol\Desktop\Dotnet\RecipeRecommender\RecipeRecommender.Data\obj\Debug\net8.0\RecipeRecommender.Data.dll
+C:\Users\anmol\Desktop\Dotnet\RecipeRecommender\RecipeRecommender.Data\obj\Debug\net8.0\refint\RecipeRecommender.Data.dll
+C:\Users\anmol\Desktop\Dotnet\RecipeRecommender\RecipeRecommender.Data\obj\Debug\net8.0\RecipeRecommender.Data.pdb
+C:\Users\anmol\Desktop\Dotnet\RecipeRecommender\RecipeRecommender.Data\obj\Debug\net8.0\ref\RecipeRecommender.Data.dll
+C:\Users\anmol\Desktop\Dotnet\RecipeRecommender\RecipeRecommender.Data\obj\Debug\net8.0\RecipeRecommender.Data.csproj.AssemblyReference.cache
