@@ -1,15 +1,6 @@
-# Build folders
+.vs/
 bin/
 obj/
-
-# Visual Studio
-.vs/
+node_modules/
 *.user
 *.suo
-
-# Config
-appsettings.Development.json
-
-# OS files
-.DS_Store
-Thumbs.db
