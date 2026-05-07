@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\anmol\\Desktop\\Dotnet\\RecipeRecommender\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABB7DAE4-0CE5-4AC2-86DB-6FE7F7736BE8}|RecipeRecommender.Business\\RecipeRecommender.Business.csproj|c:\\users\\anmol\\desktop\\dotnet\\reciperecommender\\reciperecommender.business\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABB7DAE4-0CE5-4AC2-86DB-6FE7F7736BE8}|RecipeRecommender.Business\\RecipeRecommender.Business.csproj|solutionrelative:reciperecommender.business\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ADD0F0B7-3316-4D15-9778-6C6891E67DD9}|RecipeRecommender\\RecipeRecommender.API.csproj|c:\\users\\anmol\\desktop\\dotnet\\reciperecommender\\reciperecommender\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADD0F0B7-3316-4D15-9778-6C6891E67DD9}|RecipeRecommender\\RecipeRecommender.API.csproj|solutionrelative:reciperecommender\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB7DAE4-0CE5-4AC2-86DB-6FE7F7736BE8}|RecipeRecommender.Business\\RecipeRecommender.Business.csproj|c:\\users\\anmol\\desktop\\dotnet\\reciperecommender\\reciperecommender.business\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB7DAE4-0CE5-4AC2-86DB-6FE7F7736BE8}|RecipeRecommender.Business\\RecipeRecommender.Business.csproj|solutionrelative:reciperecommender.business\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADD0F0B7-3316-4D15-9778-6C6891E67DD9}|RecipeRecommender\\RecipeRecommender.API.csproj|c:\\users\\anmol\\desktop\\dotnet\\reciperecommender\\reciperecommender\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AiService.cs",
               "DocumentMoniker": "C:\\Users\\anmol\\Desktop\\Dotnet\\RecipeRecommender\\RecipeRecommender.Business\\Services\\AiService.cs",
               "RelativeDocumentMoniker": "RecipeRecommender.Business\\Services\\AiService.cs",
-              "ToolTip": "C:\\Users\\anmol\\Desktop\\Dotnet\\RecipeRecommender\\RecipeRecommender.Business\\Services\\AiService.cs",
-              "RelativeToolTip": "RecipeRecommender.Business\\Services\\AiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\anmol\\Desktop\\Dotnet\\RecipeRecommender\\RecipeRecommender.Business\\Services\\AiService.cs*",
+              "RelativeToolTip": "RecipeRecommender.Business\\Services\\AiService.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwFMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T20:13:04.358Z",
               "EditorCaption": ""
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\anmol\\Desktop\\Dotnet\\RecipeRecommender\\RecipeRecommender\\Program.cs",
               "RelativeDocumentMoniker": "RecipeRecommender\\Program.cs",

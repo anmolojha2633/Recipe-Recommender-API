@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecipeRecommender.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e84bca6db8f9504abd37aa3a7b6e852de9c0edc4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+175223a2e1915b28bad998a32733edf423987ccf")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecipeRecommender.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecipeRecommender.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

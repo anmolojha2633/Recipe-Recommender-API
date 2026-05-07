@@ -19,4 +19,12 @@ public class RecipeController : ControllerBase
         var result = await _service.GetRecommendedRecipesAsync(request);
         return Ok(result);
     }
+    [HttpPost("ai-steps")]
+    public async Task<IActionResult> GetAiSteps(
+    [FromBody] string recipeName,
+    [FromServices] AiService aiService)
+    {
+        var result = await aiService.GetRecipeStepsAsync(recipeName);
+        return Ok(result);
+    }
 }

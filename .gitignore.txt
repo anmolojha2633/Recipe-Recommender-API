@@ -1,6 +1,23 @@
-.vs/
+# Build folders
 bin/
 obj/
-node_modules/
-*.user
+
+# VS files
+.vs/
 *.suo
+*.user
+*.cache
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# App secrets
+appsettings.Development.json
