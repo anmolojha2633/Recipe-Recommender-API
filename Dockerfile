@@ -1,14 +1,18 @@
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
-WORKDIR /app
-EXPOSE 8080
-
+# Build stage
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-WORKDIR /src
+WORKDIR /app
+
 COPY . .
 
-RUN dotnet publish "RecipeRecommender.sln" -c Release -o /app/publish
+RUN dotnet restore
+RUN dotnet publish -c Release -o out
 
-FROM base AS final
+# Runtime stage
+FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
-COPY --from=build /app/publish .
+
+COPY --from=build /app/out .
+
+EXPOSE 8080
+
 ENTRYPOINT ["dotnet", "RecipeRecommender.dll"]
